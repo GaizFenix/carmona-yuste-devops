@@ -1,4 +1,4 @@
-"""Function to sum 2 numbers"""
+"""Module providing a function to sum two numbers."""
 
 def my_sum(a, b):
     return a + b
